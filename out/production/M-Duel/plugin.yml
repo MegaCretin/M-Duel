@@ -1,0 +1,7 @@
+name: M-Duel
+version: 1.0
+author: MegaCretin
+main: fr.megacretin.duel.main
+commands:
+  duel:
+    description: Permet de gerer les combats sur le serveur
